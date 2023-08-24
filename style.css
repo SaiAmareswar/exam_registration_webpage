@@ -1,0 +1,88 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    color: white;
+}
+
+.container {
+    max-width: 600px;
+    background-image: url(https://i.postimg.cc/t4Q7XLzG/exam2.jpg);
+    background-size: cover;
+    margin: 40px auto;
+    padding: 20px;
+    border-radius: 12px;
+    box-shadow: 0 0 10px rgba(34, 26, 26, 0.181);
+    position: relative;
+}
+
+.manditory {
+    text-align: right;
+    position: fixed;
+    position: absolute;
+    top: 40px;
+    right: 80px;
+    font-size: 11px;
+    color: rgba(141, 250, 0, 0.721);
+    border-bottom: 2px solid red;
+}
+
+.manditory span {
+    font-size: 14px;
+    color: rgb(4, 255, 0);
+}
+
+.prob {
+    position: absolute;
+    top: 110px;
+    right: 30px;
+    font-size: 14px;
+    color: rgb(0, 255, 179);
+}
+
+.arrow {
+    position: absolute;
+    top: 150px;
+    right: 40px;
+}
+
+.web {
+    position: absolute;
+    top: 150px;
+    right: 70px;
+}
+
+.web a {
+    margin: 10px;
+}
+
+label,
+input,
+button {
+    display: block;
+    margin-bottom: 10px;
+}
+
+.note,
+.no {
+    font-size: 14px;
+}
+
+span {
+    color: rgb(187, 255, 0);
+    font-size: 20px;
+}
+
+button {
+    padding: 8px 18px;
+    background-color: #d0ff00;
+    border-radius: 8px;
+    color: #000000;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #cdf100;
+}
