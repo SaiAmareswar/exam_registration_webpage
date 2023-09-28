@@ -3,4 +3,4 @@ Exam Registration Webpage: A simple HTML/CSS/JS project for student exam registr
 
 [Live Link](https://saiamareswar.github.io/exam_registration_webpage/)
 
-<p><a herf="https://saiamareswar.github.io/exam_registration_webpage/" target="_blank">Live Link</a></p>
+<a herf="https://saiamareswar.github.io/exam_registration_webpage/" target="_blank">Live Link</a>
